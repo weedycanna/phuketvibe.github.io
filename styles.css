@@ -1,15 +1,10 @@
-@font-face {
-    font-family: 'Raleway';
-    src: url('./fonts/Raleway-Light.ttf');
-  }
-
 * {
     margin: 0;
     padding: 0;
 }
 
 body * {
-    font-family: 'Raleway', sans-serif;
+
     line-height: 160%;
 }
 
@@ -42,7 +37,7 @@ video::-webkit-media-controls{display: none !important;}
 }
 
 header {
-    font-family: 'Raleway', sans-serif;
+
     text-align: center;
     padding: 32px;
     height: calc(120px + 32px);
@@ -50,7 +45,7 @@ header {
 }
 
 header a {
-    font-family: 'Raleway', sans-serif;
+
     padding-top: 0px;
     text-align: center;
     font-size: 10px;
@@ -90,7 +85,7 @@ header div:hover {
 
 header h3 {
     display: inline-block;
-    font-family: 'Raleway', sans-serif;
+
     text-align: center;
     padding-top: 12px;
     color: white;
@@ -98,7 +93,7 @@ header h3 {
 }
 
 header p {
-    font-family: 'Raleway', sans-serif;
+
     font-size: 12px;
     text-align: center;
     color: white;
@@ -166,7 +161,7 @@ ul li a {
 }
 
 footer {
-    font-family: 'Raleway', sans-serif;
+
     padding-top: 0px;
     text-align: center;
     font-size: 10px;
@@ -176,7 +171,7 @@ footer {
 }
 
 footer a {
-    font-family: 'Raleway', sans-serif;
+
     padding-top: 0px;
     text-align: center;
     font-size: 10px;
